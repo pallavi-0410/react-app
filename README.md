@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The application is hosted at https://pallavi-0410.github.io/react-app/
+
 ## Steps to Git Clone
 ### git clone https://github.com/pallavi-0410/react-app/
 
